@@ -29,4 +29,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 
 ## Repository
-- [GitHub]
+- https://chickengong.github.io/notetaker/
+- 
